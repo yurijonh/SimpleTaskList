@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(41, 86, 184);
+}
+
+.tasks{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+button{
+    margin: 0px 10px 0px 10px;
+}
+
+input{
+    width: 400px;
+}
